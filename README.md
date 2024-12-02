@@ -115,7 +115,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Noob-Mukesh/Chatgpt-bot`
+`git clone https://github.com/FantasticSukhi/Chatgpt-bot && cd Chatgpt-bot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
