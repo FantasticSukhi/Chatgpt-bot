@@ -1,6 +1,3 @@
-# -----------CREDITS -----------
-# telegram : @python_coderx
-# github : noob-mukesh
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup
 import asyncio, time,requests
@@ -17,10 +14,6 @@ async def chatgpt_chat(bot, message):
             "Example:**\n\n`/chatgpt write simple website code using html css ,js?`")
     else:
         a = message.text.split(' ', 1)[1]
-
-    # -----------CREDITS -----------
-    # telegram : @python_coderx
-    # github : noob-mukesh
     
 
     try:
