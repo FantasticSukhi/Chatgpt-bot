@@ -12,5 +12,5 @@ MONGO_DB_URI :str = os.environ.get(
     "MONGO_DB_URI",
     "mongodb+srv://danishzain1637:papaspartan@cluster0.xdje3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 )
-OWNER_ID :int= os.environ.get("OWNER_ID", 6713994904)
+OWNER_ID :int= os.environ.get("OWNER_ID", 6444118836)
 
