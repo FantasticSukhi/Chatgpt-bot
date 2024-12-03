@@ -25,7 +25,7 @@ START = f""" <b>
 ──────────────────
 Rᴇᴀᴅ Tʜᴇ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ
 
-Pᴏᴡᴇʀᴇᴅ Bʏ @BLACKMAMBA_HU_VRO  </b>"""
+Pᴏᴡᴇʀᴇᴅ Bʏ @MBV_NETWORK  </b>"""
 SOURCE_TEXT = f"""<b>
 ๏ ʜᴇʏ, ɪ ᴀᴍ <a href="https://t.me/{Mukesh.username}"> {Mukesh.name} </a>
 ──────────────────
