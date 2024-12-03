@@ -1,6 +1,3 @@
-# -----------CREDITS -----------
-# telegram : @Mr_Sukkun
-# github : noob-mukesh
 from pyrogram import filters
 import asyncio, time,requests
 from pyrogram.types import InlineKeyboardMarkup
@@ -20,9 +17,6 @@ async def blackbox_chat(bot, message):
             "Example:**\n\n`/blackbox write simple flask app code`")
     else:
         a = message.text.split(' ', 1)[1]
-    # CREDITS
-    # TELEGRAM : @Mr_Sukkun
-    #  GITHUB : NOOB-MUKESH
     try:
         response = api.blackbox(a)
         
