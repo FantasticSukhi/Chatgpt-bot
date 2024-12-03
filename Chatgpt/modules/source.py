@@ -1,6 +1,3 @@
-# -----------CREDITS -----------
-# telegram : @Mr_Sukkun
-# github : noob-mukesh
 from pyrogram import filters
 import asyncio
 from .. import Mukesh
