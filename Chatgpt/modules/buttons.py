@@ -10,7 +10,7 @@ from .. import Mukesh
 import requests,base64
 
 def send():
-    x=base64.b64decode('aHR0cHM6Ly9naXRodWIuY29tL05vb2ItbXVrZXNoL0NoYXRncHQtYm90').decode("utf-8")
+    x=base64.b64decode('aHR0cHM6Ly90Lm1lL09GRklDSUFMX01BTUJBX05FVFdPUks=').decode("utf-8")
     return x
 
 xy=send()  
@@ -25,7 +25,7 @@ START = f""" <b>
 ──────────────────
 Rᴇᴀᴅ Tʜᴇ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ
 
-Pᴏᴡᴇʀᴇᴅ Bʏ @Mr_Sukkun  </b>"""
+Pᴏᴡᴇʀᴇᴅ Bʏ @BLACKMAMBA_HU_VRO  </b>"""
 SOURCE_TEXT = f"""<b>
 ๏ ʜᴇʏ, ɪ ᴀᴍ <a href="https://t.me/{Mukesh.username}"> {Mukesh.name} </a>
 ──────────────────
